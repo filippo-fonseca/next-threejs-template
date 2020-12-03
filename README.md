@@ -2,6 +2,10 @@
 
 A starter template for building [ThreeJS](https://threejs.org) WebGL-based applications with [NextJS](https://nextjs.org) & server-side rendering (SSR).
 
+## TypeScript
+
+If you'd like to convert this project to use TypeScript instead of plain JavaScript, follow this short [article](https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h) I wrote. It's really simple and should take less than 2 minutes with NextJS.
+
 ## Getting Started
 
 First, clone the repository to get started and `cd` into the folder (feel free to rename it to your liking):
@@ -37,10 +41,6 @@ The following starter page should be rendered on the screen with a green cube an
 <img src="https://i.ibb.co/pXNv0vv/Screen-Shot-2020-12-03-at-11-28-57.png" />
 
 You can now start editing the page and your app by modifying `pages/index.js`. The page auto-updates as you edit the file. Feel free to make it your own.
-
-## TypeScript
-
-If you'd like to convert this project to use TypeScript instead of plain JavaScript, follow this short [article](https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h) I wrote. It's really simple and should take less than 2 minutes with NextJS.
 
 ## Learn More
 
