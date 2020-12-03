@@ -34,8 +34,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The following starter page should be rendered on the screen with a green cube animation, as such:
 
-<br>
-
 <img src="https://i.ibb.co/pXNv0vv/Screen-Shot-2020-12-03-at-11-28-57.png" />
 <br></br>
 
