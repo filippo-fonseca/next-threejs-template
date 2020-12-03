@@ -26,7 +26,7 @@ class Tree extends Component {
         animate();
       }
   render() {
-    return <div style={{ textAlign: "center" }}><h1>Cubified</h1></div>;
+    return <div style={{ textAlign: "center" }}><h1>ThreeJS for NextJS</h1></div>;
   }
 }
 

@@ -1,6 +1,5 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-import Tree from "../components/cube";
+import React from "react";
+import Tree from "../components/three";
 
 export default function Home() {
   return (
