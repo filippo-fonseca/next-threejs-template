@@ -52,6 +52,6 @@ Helpful resources I think will be useful for advancing what the template gives y
 
 3. [How to Set Up a NextJS Project with TypeScript](https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h)
 
-<br></br>
+<hr>
 
 Made with ❤️ by [@FilippoFonseca](https://www.twitter.com/FilippoFonseca).
