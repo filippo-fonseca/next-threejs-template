@@ -6,7 +6,7 @@ A starter template for building [ThreeJS](https://threejs.org) WebGL-based appli
 
 First, clone the repository to get started and `cd` into the folder (feel free to rename it to your liking):
 
-```
+```bash
 git clone git@github.com:filippo-fonseca/next-threejs-template.git
 
 cd next-threejs-template
