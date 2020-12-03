@@ -13,7 +13,7 @@ class Tree extends Component {
         renderer.setSize(window.innerWidth, window.innerHeight);
         document.body.appendChild(renderer.domElement);
         var geometry = new THREE.BoxGeometry(1, 1, 1);
-        var material = new THREE.MeshBasicMaterial({ color: "green" });
+        var material = new THREE.MeshBasicMaterial({ color: 0xff66ff99 });
         var cube = new THREE.Mesh(geometry, material);
         scene.add(cube);
         camera.position.z = 5;

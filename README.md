@@ -1,8 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌳 ThreeJS Template for NextJS
+
+A starter template for building [ThreeJS](https://threejs.org) WebGL-based applications with [NextJS](https://nextjs.org) & server-side rendering (SSR).
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repository to get started and `cd` into the folder (feel free to rename it to your liking):
+
+```
+git clone git@github.com:filippo-fonseca/next-threejs-template.git
+
+cd next-threejs-template
+```
+
+Next, install all required dependencies by running:
+
+```bash
+yarn
+# or
+npm i
+```
+
+**NOTE:** You can use either Yarn or npm, although it is recommended to use Yarn for this project (as it is the standard for NextJS-based projects).
+
+Lastly, let's run the development server!
 
 ```bash
 npm run dev
@@ -12,19 +32,25 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+The following starter page should be rendered on the screen with a green cube animation, as such:
+
+<br>
+
+<img src="https://i.ibb.co/pXNv0vv/Screen-Shot-2020-12-03-at-11-28-57.png" />
+<br></br>
+
+You can now start editing the page and your app by modifying `pages/index.js`. The page auto-updates as you edit the file. Feel free to make it your own.
+
+## TypeScript
+
+If you'd like to convert this project to use TypeScript instead of plain JavaScript, follow this short [article](https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h) I wrote. It's really simple and should take less than 2 minutes with NextJS.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Helpful resources I think will be useful for advancing what the template gives you in this project:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. [NextJS Documentation](https://nextjs.org/docs)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. [ThreeJS Documentation](https://threejs.org/docs)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. [How to Set Up a NextJS Project with TypeScript](https://dev.to/filippofonseca/how-to-set-up-a-next-js-project-with-typescript-and-react-576h)
